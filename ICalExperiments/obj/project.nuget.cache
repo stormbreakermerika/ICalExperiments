@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RZB76iYF3rBTCZbbG4NRp74hqiTdGFGFuNkkY7rN0zFGoyqUyXfh88MVBbcXj+ac+/bZbLauOl0AeDHQ2/DXtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BenKaiser\\source\\repos\\ICalExperiments\\ICalExperiments\\ICalExperiments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BenKaiser\\.nuget\\packages\\ical.net\\4.2.0\\ical.net.4.2.0.nupkg.sha512",
+    "C:\\Users\\BenKaiser\\.nuget\\packages\\nodatime\\3.0.0\\nodatime.3.0.0.nupkg.sha512",
+    "C:\\Users\\BenKaiser\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
